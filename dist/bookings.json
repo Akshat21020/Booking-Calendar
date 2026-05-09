@@ -1,0 +1,162 @@
+[
+  {
+    "id": "b1",
+    "guestName": "Alice Monroe",
+    "checkIn": "2026-05-01",
+    "checkOut": "2026-05-04",
+    "status": "confirmed",
+    "rooms": 2
+  },
+  {
+    "id": "b2",
+    "guestName": "Bob Chen",
+    "checkIn": "2026-05-03",
+    "checkOut": "2026-05-07",
+    "status": "confirmed",
+    "rooms": 1
+  },
+  {
+    "id": "b3",
+    "guestName": "Carol Davis",
+    "checkIn": "2026-05-06",
+    "checkOut": "2026-05-10",
+    "status": "confirmed",
+    "rooms": 3
+  },
+  {
+    "id": "b4",
+    "guestName": "Dan Foster",
+    "checkIn": "2026-05-08",
+    "checkOut": "2026-05-12",
+    "status": "cancelled",
+    "rooms": 1
+  },
+  {
+    "id": "b5",
+    "guestName": "Eva Green",
+    "checkIn": "2026-05-10",
+    "checkOut": "2026-05-15",
+    "status": "confirmed",
+    "rooms": 2
+  },
+  {
+    "id": "b6",
+    "guestName": "Frank Hill",
+    "checkIn": "2026-05-14",
+    "checkOut": "2026-05-18",
+    "status": "confirmed",
+    "rooms": 4
+  },
+  {
+    "id": "b7",
+    "guestName": "Grace Lee",
+    "checkIn": "2026-05-16",
+    "checkOut": "2026-05-20",
+    "status": "confirmed",
+    "rooms": 1
+  },
+  {
+    "id": "b8",
+    "guestName": "Hank Moore",
+    "checkIn": "2026-05-18",
+    "checkOut": "2026-05-22",
+    "status": "confirmed",
+    "rooms": 3
+  },
+  {
+    "id": "b9",
+    "guestName": "Iris Nash",
+    "checkIn": "2026-05-20",
+    "checkOut": "2026-05-25",
+    "status": "confirmed",
+    "rooms": 2
+  },
+  {
+    "id": "b10",
+    "guestName": "Jake Owen",
+    "checkIn": "2026-05-22",
+    "checkOut": "2026-05-26",
+    "status": "cancelled",
+    "rooms": 1
+  },
+  {
+    "id": "b11",
+    "guestName": "Karen Park",
+    "checkIn": "2026-05-24",
+    "checkOut": "2026-05-29",
+    "status": "confirmed",
+    "rooms": 5
+  },
+  {
+    "id": "b12",
+    "guestName": "Leo Quinn",
+    "checkIn": "2026-05-27",
+    "checkOut": "2026-05-31",
+    "status": "confirmed",
+    "rooms": 2
+  },
+  {
+    "id": "b13",
+    "guestName": "Mia Reed",
+    "checkIn": "2026-05-29",
+    "checkOut": "2026-06-03",
+    "status": "confirmed",
+    "rooms": 1
+  },
+  {
+    "id": "b14",
+    "guestName": "Nate Scott",
+    "checkIn": "2026-04-28",
+    "checkOut": "2026-05-03",
+    "status": "confirmed",
+    "rooms": 2
+  },
+  {
+    "id": "b15",
+    "guestName": "Olivia Turner",
+    "checkIn": "2026-05-05",
+    "checkOut": "2026-05-09",
+    "status": "confirmed",
+    "rooms": 3
+  },
+  {
+    "id": "b16",
+    "guestName": "Paul Underwood",
+    "checkIn": "2026-05-11",
+    "checkOut": "2026-05-14",
+    "status": "confirmed",
+    "rooms": 1
+  },
+  {
+    "id": "b17",
+    "guestName": "Quinn Vega",
+    "checkIn": "2026-05-13",
+    "checkOut": "2026-05-17",
+    "status": "cancelled",
+    "rooms": 2
+  },
+  {
+    "id": "b18",
+    "guestName": "Rachel White",
+    "checkIn": "2026-05-19",
+    "checkOut": "2026-05-23",
+    "status": "confirmed",
+    "rooms": 4
+  },
+  {
+    "id": "b19",
+    "guestName": "Sam York",
+    "checkIn": "2026-05-25",
+    "checkOut": "2026-05-30",
+    "status": "confirmed",
+    "rooms": 2
+  },
+  {
+    "id": "b20",
+    "guestName": "Tara Zinc",
+    "checkIn": "2026-05-28",
+    "checkOut": "2026-06-02",
+    "status": "confirmed",
+    "rooms": 3
+  }
+]

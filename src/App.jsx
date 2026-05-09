@@ -85,12 +85,13 @@ export default function App() {
             onMouseUp={handleMouseUp}
           />
 
-          {/* <StatsBar
+          <StatsBar
             avgOccupancy={stats.avgOccupancy}
             totalBookings={stats.totalBookings}
             peakDay={stats.peakDay}
             peakCount={stats.peakCount}
-          /> */}
+          />
+
         </section>
 
       
@@ -104,9 +105,13 @@ export default function App() {
 
       {/* Heatmap legend */}
       <footer className="app__legend">
-        <span className="legend-label">Occupancy:</span>
+        <span className="legend-label" style={{ color: "black" }}>
+          Occupancy:
+        </span>
         {["0", "1–2", "3–4", "5–6", "7–8", "9+"].map((label, i) => (
-          <span key={i} className={`legend-swatch legend-swatch--${i}`}>{label}</span>
+          <span key={i} className={`legend-swatch legend-swatch--${i}`} style={{ color: "black" }}>
+            {label}
+          </span>
         ))}
       </footer>
     </div>
